@@ -43,3 +43,6 @@ form {
   flex-direction: column;
   gap: 0.5rem;
 }
+document.getElementById("clickMe").addEventListener("click", () => {
+  alert("Μπράβο! Πατήσατε το κουμπί!");
+});
