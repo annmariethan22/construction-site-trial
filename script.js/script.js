@@ -46,3 +46,10 @@ form {
 document.getElementById("clickMe").addEventListener("click", () => {
   alert("Μπράβο! Πατήσατε το κουμπί!");
 });
+document.getElementById("clickMe").addEventListener("click", () => {
+  alert("Μάθε περισσότερα για την εταιρεία μας!");
+});
+document.getElementById("clickMe").addEventListener("click", () => {
+  alert("Μάθε περισσότερα για την εταιρεία μας!");
+});
+
